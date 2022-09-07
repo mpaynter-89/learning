@@ -4,3 +4,7 @@ git commands
   add - track your files and changes in git
   commit - save files in git
   push - upload git commits to remote repository like GitHub
+  pull - download from remote repository to local machine
+
+README.md (use .md for markdown file type) when creating with Git
+Can edit directly in GitHub online. Can view commit (change) history
