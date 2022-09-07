@@ -1,0 +1,6 @@
+working through this video https://www.youtube.com/watch?v=RGOj5yH7evk
+git commands
+  clone - brings a repository that is hosted somewhere to a folder on local machine
+  add - track your files and changes in git
+  commit - save files in git
+  push - upload git commits to remote repository like GitHub
