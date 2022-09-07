@@ -1,0 +1,21 @@
+link https://www.youtube.com/watch?v=xfzGZB4HhEE
+
+python most popular - but slow.
+numPy most popular for math calcs. Used in python but operates on C+
+
+Collect data, develop hypothesis, backtest strategy, implement
+
+sample API code
+
+symbol='AAPL'
+api_url = f'URL..com///end'
+data = requests.get(api_url).json()
+data
+
+API types (POST - adds data to databse, IE create only). PUT - adds and
+overwrites data in the database. DELETE - deletes data from API database
+
+Free API to practice with
+ > https://github.com/public-apis/public-apis < yo has crypto
+
+ 
